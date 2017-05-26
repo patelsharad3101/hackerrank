@@ -2,7 +2,7 @@
 
 import sys
 
-
+#staircase solution
 n = int(input().strip())
 s=" "
 h="#"
